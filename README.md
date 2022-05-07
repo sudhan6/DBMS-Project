@@ -14,9 +14,6 @@ Backend-Python flask (Python 3.7) , SQLAlchemy,
 • Operating System: Windows 10
 • Google Chrome/Internet Explorer
 • XAMPP (Version-3.7)
-• Python main editor (user interface): PyCharm Community
-• workspace editor: Sublime text 3
-
 
 
 ![1](https://user-images.githubusercontent.com/69726955/167254859-f1a55c88-ebb6-42ab-a93d-296fb1b2f94f.png)
